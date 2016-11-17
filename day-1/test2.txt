@@ -1,6 +1,2 @@
-aaaaaaa
-A
-first letter of the alphabet
-aaaaaaaaaaaaaaaaaaaaa
-aa
-a
+ccccc
+C
